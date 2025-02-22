@@ -1,0 +1,4 @@
+# ninja log v5
+1	3960	758767545	CMakeFiles/OpenCV_ffi.dir/E_/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/lib/opencv-cpp/main.cpp.o	94fd6bce101dea51
+3964	4323	758767545	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/RelWithDebInfo/s6s3w5o4/obj/x86/libOpenCV_ffi.so	3831a148ab27c945
+4	322	758832160	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/RelWithDebInfo/s6s3w5o4/obj/x86/libOpenCV_ffi.so	3831a148ab27c945

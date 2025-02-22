@@ -1,0 +1,3 @@
+E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/app/.cxx/RelWithDebInfo/s6s3w5o4/arm64-v8a/CMakeFiles/OpenCV_ffi.dir
+E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/app/.cxx/RelWithDebInfo/s6s3w5o4/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/app/.cxx/RelWithDebInfo/s6s3w5o4/arm64-v8a/CMakeFiles/rebuild_cache.dir

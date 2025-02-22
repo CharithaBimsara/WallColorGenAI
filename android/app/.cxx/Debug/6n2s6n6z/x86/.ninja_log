@@ -1,0 +1,16 @@
+# ninja log v5
+1	1527	756684771	CMakeFiles/OpenCV_ffi.dir/E_/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/lib/opencv-cpp/main.cpp.o	f94376f00613f199
+1530	1735	756684771	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+6	432	756685973	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+7	459	756936226	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+9	1492	756996007	CMakeFiles/OpenCV_ffi.dir/E_/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/lib/opencv-cpp/main.cpp.o	f94376f00613f199
+1492	1993	756996007	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+2	1931	756996627	CMakeFiles/OpenCV_ffi.dir/E_/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/lib/opencv-cpp/main.cpp.o	f94376f00613f199
+1931	2125	756996627	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+4	1182	756996978	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+3	278	756999037	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+5	532	757014109	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+8	1654	758043409	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+11	631	758728239	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+7	549	758768684	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976
+7	764	758769297	E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/build/app/intermediates/cxx/Debug/6n2s6n6z/obj/x86/libOpenCV_ffi.so	b2c87cc3860ad976

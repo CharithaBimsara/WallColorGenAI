@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/Projects/Flutter/color/colornestle/MobileApp-NexaColorMatch/Frontend/android/app/.cxx/Debug/106n6yh2/arm64-v8a",
+  "command": "C:\\Users\\chari\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/chari/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/chari/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DOpenCV_ffi_EXPORTS -IF:/Projects/Flutter/color/colornestle/MobileApp-NexaColorMatch/Frontend/android/cmake/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\OpenCV_ffi.dir\\F_\\Projects\\Flutter\\color\\colornestle\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp.o -c F:\\Projects\\Flutter\\color\\colornestle\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp",
+  "file": "F:\\Projects\\Flutter\\color\\colornestle\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp"
+}
+]

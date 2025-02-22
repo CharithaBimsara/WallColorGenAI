@@ -1,0 +1,8 @@
+# ninja log v5
+1	2775	741869818	CMakeFiles/OpenCV_ffi.dir/F_/Projects/Flutter/color/colornestle/lib/opencv-cpp/main.cpp.o	e70048bebb2124b4
+2777	3146	741869818	F:/Projects/Flutter/color/colornestle/build/app/intermediates/cxx/Debug/1512g1m6/obj/armeabi-v7a/libOpenCV_ffi.so	a6d0c80f41aaf446
+7	853	742060726	F:/Projects/Flutter/color/colornestle/build/app/intermediates/cxx/Debug/1512g1m6/obj/armeabi-v7a/libOpenCV_ffi.so	a6d0c80f41aaf446
+7	1244	742098421	F:/Projects/Flutter/color/colornestle/build/app/intermediates/cxx/Debug/1512g1m6/obj/armeabi-v7a/libOpenCV_ffi.so	a6d0c80f41aaf446
+7	653	742099993	F:/Projects/Flutter/color/colornestle/build/app/intermediates/cxx/Debug/1512g1m6/obj/armeabi-v7a/libOpenCV_ffi.so	a6d0c80f41aaf446
+7	326	742100328	F:/Projects/Flutter/color/colornestle/build/app/intermediates/cxx/Debug/1512g1m6/obj/armeabi-v7a/libOpenCV_ffi.so	a6d0c80f41aaf446
+10	1031	742136498	F:/Projects/Flutter/color/colornestle/build/app/intermediates/cxx/Debug/1512g1m6/obj/armeabi-v7a/libOpenCV_ffi.so	a6d0c80f41aaf446

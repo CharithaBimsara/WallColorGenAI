@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/app/.cxx/Debug/6n2s6n6z/x86",
+  "command": "C:\\Users\\chari\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/chari/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/chari/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DOpenCV_ffi_EXPORTS -IE:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/cmake/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles\\OpenCV_ffi.dir\\E_\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp.o -c E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp",
+  "file": "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp"
+}
+]

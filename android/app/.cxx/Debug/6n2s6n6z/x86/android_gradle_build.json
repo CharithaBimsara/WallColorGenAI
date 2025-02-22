@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\android\\cmake\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\chari\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\android\\app\\.cxx\\Debug\\6n2s6n6z\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\chari\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\android\\app\\.cxx\\Debug\\6n2s6n6z\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "OpenCV_ffi::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "OpenCV_ffi",
+      "output": "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\build\\app\\intermediates\\cxx\\Debug\\6n2s6n6z\\obj\\x86\\libOpenCV_ffi.so",
+      "runtimeFiles": [
+        "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\android\\cmake\\src\\jniLibs\\x86\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\chari\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\chari\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/app/.cxx/RelWithDebInfo/s6s3w5o4/armeabi-v7a",
+  "command": "C:\\Users\\chari\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/chari/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/chari/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DOpenCV_ffi_EXPORTS -IE:/Project/Nexa_Color_Match/MobileApp-NexaColorMatch/Frontend/android/cmake/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++17 -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\OpenCV_ffi.dir\\E_\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp.o -c E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp",
+  "file": "E:\\Project\\Nexa_Color_Match\\MobileApp-NexaColorMatch\\Frontend\\lib\\opencv-cpp\\main.cpp"
+}
+]
