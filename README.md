@@ -38,8 +38,8 @@ An adorable AI-powered mobile app that helps you find the *perfect* color matche
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/ai-color-match-app.git
-   cd ai-color-match-app
+   git clone https://github.com/CharithaBimsara/WallColorGenAI.git
+   cd frontend
 
 2. **Install dependencies**
 
