@@ -4,10 +4,7 @@ import 'dart:convert';
 import 'dart:developer' as developer;
 import 'dart:async';
 import 'package:crypto/crypto.dart';
-
-
 import '../utils/config.dart';
-import '../utils/database_check.dart';
 
 class RegisterScreenState extends ChangeNotifier {
   final formKey = GlobalKey<FormState>();

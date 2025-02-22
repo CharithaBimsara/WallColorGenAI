@@ -3,10 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:logger/logger.dart';
 import 'package:http/http.dart' as http;
-
 import 'package:colornestle/utils/config.dart';
 
-import '../widgets/button.dart';
 
 // Create a logger instance
 final logger = Logger();

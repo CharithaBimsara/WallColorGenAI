@@ -1,4 +1,3 @@
-import 'package:colornestle/pages/panorama_screen.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'dart:convert';
@@ -6,7 +5,6 @@ import 'package:path_provider/path_provider.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:http/http.dart' as http;
 import '../utils/config.dart';
-import '../utils/interior_image_api.dart';
 
 class MarkedObject {
   final List<Offset> points;  // List of coordinates (x, y)
@@ -38,11 +36,11 @@ class PhotoMarkingApp extends StatefulWidget {
   const PhotoMarkingApp({super.key});
 
   @override
-  _PhotoMarkingAppState createState() => _PhotoMarkingAppState();
+  PhotoMarkingAppState createState() => PhotoMarkingAppState();
 }
 
-class _PhotoMarkingAppState extends State<PhotoMarkingApp> {
-  List<MarkedObject> _markedObjects = [];
+class PhotoMarkingAppState extends State<PhotoMarkingApp> {
+  final List<MarkedObject> _markedObjects = [];
   String name = "Charitha Adikari";
   String email = "defaultEmail@example.com";
   File? _image;
@@ -281,6 +279,8 @@ class _PhotoMarkingAppState extends State<PhotoMarkingApp> {
           'marked_objects_${DateTime.now().millisecondsSinceEpoch}.json';
       final file = File('${directory.path}/$fileName');
       await file.writeAsString(generateJsonData());
+
+      
 
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('JSON saved: ${file.path}')),

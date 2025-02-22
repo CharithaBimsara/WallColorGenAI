@@ -3,10 +3,8 @@ import 'package:colornestle/pages/navpages/generate_image.dart';
 import 'package:colornestle/utils/interior_image_api.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-
 import '../utils/config.dart';
 import 'navpages/main_page.dart';
-import 'preference_form.dart';
 
 class ColorMatcher extends StatefulWidget {
   const ColorMatcher({super.key});
