@@ -1,0 +1,17 @@
+boto3
+opencv-python
+numpy
+matplotlib
+pillow
+scipy
+scikit-fuzzy
+flask
+flask-cors
+opencv-python-headless
+numpy
+boto3
+mysql-connector-python
+scikit-fuzzy
+scipy
+pillow
+matplotlib
